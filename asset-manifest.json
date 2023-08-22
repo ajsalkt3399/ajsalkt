@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ajsalkt/static/css/main.3850380c.css",
+    "main.js": "/ajsalkt/static/js/main.e7c1e9d8.js",
+    "static/js/787.c105fcea.chunk.js": "/ajsalkt/static/js/787.c105fcea.chunk.js",
+    "static/media/2.png": "/ajsalkt/static/media/2.88499c35c962bf17ab3c.png",
+    "static/media/coding.png": "/ajsalkt/static/media/coding.59a54402c9b3d748de4b.png",
+    "index.html": "/ajsalkt/index.html",
+    "main.3850380c.css.map": "/ajsalkt/static/css/main.3850380c.css.map",
+    "main.e7c1e9d8.js.map": "/ajsalkt/static/js/main.e7c1e9d8.js.map",
+    "787.c105fcea.chunk.js.map": "/ajsalkt/static/js/787.c105fcea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3850380c.css",
+    "static/js/main.e7c1e9d8.js"
+  ]
+}
